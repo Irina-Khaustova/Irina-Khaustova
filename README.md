@@ -1,16 +1,16 @@
-### Hi there 👋
+### Привет 👋
 
-<!--
-**Irina-Khaustova/Irina-Khaustova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ # Я Хаустова Ирина, frontend-разработчик
 
-Here are some ideas to get you started:
+## Что я умею ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS:
+- JavaScript:
+- React:
+- Redux, Redux-Toolkit, Redux-Saga:￼
+
+ 
+
+- [диплом о переквалификации](https://docs.google.com/document/d/1BAanlWE9kz7k4bmGTSLqgOlLsxChN87yBuL9jrSGpwI/edit)
+
+ - ### пример работы: дипломный проект - [система бронирования ж/д билетов](https://docs.google.com/document/d/1BAanlWE9kz7k4bmGTSLqgOlLsxChN87yBuL9jrSGpwI/edit) ###
