@@ -1,7 +1,11 @@
 ### Привет 👋
 
- # Я Хаустова Ирина, frontend-разработчик
+ # Меня зовут Ирина
 
+ ### 👩‍💻 Обо мне :
+
+ Я frontend разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ 
 ## Что я умею ##
 
 - HTML, CSS:
